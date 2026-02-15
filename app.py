@@ -1,3 +1,4 @@
-print("CI auto trigger working!,Akshay Hegde")
+print("Auto trigger working now")
+
 
 
